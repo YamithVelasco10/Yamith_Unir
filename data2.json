@@ -1,0 +1,578 @@
+[
+  {
+    "Año": 2014,
+    "Periodo": "Octubre",
+    "Hombres": "2.136.227",
+    "Mujeres": "2.390.577"
+  },
+  {
+    "Año": 2014,
+    "Periodo": "Noviembre",
+    "Hombres": "2.120.210",
+    "Mujeres": "2.391.906"
+  },
+  {
+    "Año": 2014,
+    "Periodo": "Diciembre",
+    "Hombres": "2.112.508",
+    "Mujeres": "2.335.203"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Enero",
+    "Hombres": "2.137.837",
+    "Mujeres": "2.387.854"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Febrero",
+    "Hombres": "2.117.980",
+    "Mujeres": "2.394.173"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Marzo",
+    "Hombres": "2.080.784",
+    "Mujeres": "2.371.155"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Abril",
+    "Hombres": "2.004.404",
+    "Mujeres": "2.328.612"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Mayo",
+    "Hombres": "1.931.160",
+    "Mujeres": "2.283.871"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Junio",
+    "Hombres": "1.877.698",
+    "Mujeres": "2.242.606"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Julio",
+    "Hombres": "1.834.143",
+    "Mujeres": "2.212.133"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Agosto",
+    "Hombres": "1.845.268",
+    "Mujeres": "2.222.687"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Septiembre",
+    "Hombres": "1.849.241",
+    "Mujeres": "2.244.801"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Octubre",
+    "Hombres": "1.895.506",
+    "Mujeres": "2.280.863"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Noviembre",
+    "Hombres": "1.872.500",
+    "Mujeres": "2.276.798"
+  },
+  {
+    "Año": 2015,
+    "Periodo": "Diciembre",
+    "Hombres": "1.875.235",
+    "Mujeres": "2.218.273"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Enero",
+    "Hombres": "1.891.673",
+    "Mujeres": "2.259.082"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Febrero",
+    "Hombres": "1.891.473",
+    "Mujeres": "2.261.513"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Marzo",
+    "Hombres": "1.864.474",
+    "Mujeres": "2.230.296"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Abril",
+    "Hombres": "1.807.816",
+    "Mujeres": "2.203.355"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Mayo",
+    "Hombres": "1.736.578",
+    "Mujeres": "2.154.825"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Junio",
+    "Hombres": "1.665.686",
+    "Mujeres": "2.101.368"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Julio",
+    "Hombres": "1.616.721",
+    "Mujeres": "2.066.340"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Agosto",
+    "Hombres": "1.624.313",
+    "Mujeres": "2.073.183"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Septiembre",
+    "Hombres": "1.628.447",
+    "Mujeres": "2.091.850"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Octubre",
+    "Hombres": "1.651.788",
+    "Mujeres": "2.113.194"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Noviembre",
+    "Hombres": "1.663.870",
+    "Mujeres": "2.125.953"
+  },
+  {
+    "Año": 2016,
+    "Periodo": "Diciembre",
+    "Hombres": "1.642.302",
+    "Mujeres": "2.060.672"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Enero",
+    "Hombres": "1.655.366",
+    "Mujeres": "2.104.865"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Febrero",
+    "Hombres": "1.646.954",
+    "Mujeres": "2.103.922"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Marzo",
+    "Hombres": "1.615.938",
+    "Mujeres": "2.086.379"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Abril",
+    "Hombres": "1.546.780",
+    "Mujeres": "2.026.256"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Mayo",
+    "Hombres": "1.478.677",
+    "Mujeres": "1.982.451"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Junio",
+    "Hombres": "1.423.734",
+    "Mujeres": "1.939.077"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Julio",
+    "Hombres": "1.407.638",
+    "Mujeres": "1.928.286"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Agosto",
+    "Hombres": "1.431.435",
+    "Mujeres": "1.950.889"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Septiembre",
+    "Hombres": "1.439.465",
+    "Mujeres": "1.970.717"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Octubre",
+    "Hombres": "1.465.377",
+    "Mujeres": "2.001.649"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Noviembre",
+    "Hombres": "1.465.663",
+    "Mujeres": "2.008.618"
+  },
+  {
+    "Año": 2017,
+    "Periodo": "Diciembre",
+    "Hombres": "1.459.726",
+    "Mujeres": "1.953.055"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Enero",
+    "Hombres": "1.475.479",
+    "Mujeres": "2.001.049"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Febrero",
+    "Hombres": "1.472.370",
+    "Mujeres": "1.997.878"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Marzo",
+    "Hombres": "1.454.120",
+    "Mujeres": "1.968.431"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Abril",
+    "Hombres": "1.398.960",
+    "Mujeres": "1.936.908"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Mayo",
+    "Hombres": "1.347.140",
+    "Mujeres": "1.904.990"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Junio",
+    "Hombres": "1.295.352",
+    "Mujeres": "1.866.810"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Julio",
+    "Hombres": "1.279.579",
+    "Mujeres": "1.855.442"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Agosto",
+    "Hombres": "1.306.994",
+    "Mujeres": "1.875.074"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Septiembre",
+    "Hombres": "1.313.151",
+    "Mujeres": "1.889.358"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Octubre",
+    "Hombres": "1.340.190",
+    "Mujeres": "1.914.513"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Noviembre",
+    "Hombres": "1.342.941",
+    "Mujeres": "1.909.926"
+  },
+  {
+    "Año": 2018,
+    "Periodo": "Diciembre",
+    "Hombres": "1.337.244",
+    "Mujeres": "1.865.053"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Enero",
+    "Hombres": "1.360.448",
+    "Mujeres": "1.925.313"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Febrero",
+    "Hombres": "1.360.225",
+    "Mujeres": "1.928.815"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Marzo",
+    "Hombres": "1.338.897",
+    "Mujeres": "1.916.187"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Abril",
+    "Hombres": "1.298.708",
+    "Mujeres": "1.864.858"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Mayo",
+    "Hombres": "1.250.812",
+    "Mujeres": "1.828.679"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Junio",
+    "Hombres": "1.218.056",
+    "Mujeres": "1.797.630"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Julio",
+    "Hombres": "1.216.487",
+    "Mujeres": "1.794.946"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Agosto",
+    "Hombres": "1.247.538",
+    "Mujeres": "1.818.266"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Septiembre",
+    "Hombres": "1.250.720",
+    "Mujeres": "1.828.991"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Octubre",
+    "Hombres": "1.304.137",
+    "Mujeres": "1.873.522"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Noviembre",
+    "Hombres": "1.317.686",
+    "Mujeres": "1.880.498"
+  },
+  {
+    "Año": 2019,
+    "Periodo": "Diciembre",
+    "Hombres": "1.328.396",
+    "Mujeres": "1.835.209"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Enero",
+    "Hombres": "1.356.980",
+    "Mujeres": "1.896.873"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Febrero",
+    "Hombres": "1.349.975",
+    "Mujeres": "1.896.072"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Marzo",
+    "Hombres": "1.528.942",
+    "Mujeres": "2.019.370"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Abril",
+    "Hombres": "1.679.403",
+    "Mujeres": "2.151.800"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Mayo",
+    "Hombres": "1.666.098",
+    "Mujeres": "2.191.678"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Junio",
+    "Hombres": "1.646.965",
+    "Mujeres": "2.215.918"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Julio",
+    "Hombres": "1.595.448",
+    "Mujeres": "2.177.586"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Agosto",
+    "Hombres": "1.604.901",
+    "Mujeres": "2.197.913"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Septiembre",
+    "Hombres": "1.594.691",
+    "Mujeres": "2.181.794"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Octubre",
+    "Hombres": "1.622.758",
+    "Mujeres": "2.203.285"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Noviembre",
+    "Hombres": "1.629.058",
+    "Mujeres": "2.222.254"
+  },
+  {
+    "Año": 2020,
+    "Periodo": "Diciembre",
+    "Hombres": "1.663.016",
+    "Mujeres": "2.225.121"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Enero",
+    "Hombres": "1.690.978",
+    "Mujeres": "2.273.375"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Febrero",
+    "Hombres": "1.704.010",
+    "Mujeres": "2.304.779"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Marzo",
+    "Hombres": "1.671.541",
+    "Mujeres": "2.278.099"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Abril",
+    "Hombres": "1.647.503",
+    "Mujeres": "2.263.125"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Mayo",
+    "Hombres": "1.579.779",
+    "Mujeres": "2.201.471"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Junio",
+    "Hombres": "1.491.729",
+    "Mujeres": "2.122.610"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Julio",
+    "Hombres": "1.398.779",
+    "Mujeres": "2.017.719"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Agosto",
+    "Hombres": "1.361.699",
+    "Mujeres": "1.972.216"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Septiembre",
+    "Hombres": "1.325.563",
+    "Mujeres": "1.932.239"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Octubre",
+    "Hombres": "1.328.489",
+    "Mujeres": "1.928.579"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Noviembre",
+    "Hombres": "1.294.430",
+    "Mujeres": "1.888.257"
+  },
+  {
+    "Año": 2021,
+    "Periodo": "Diciembre",
+    "Hombres": "1.281.873",
+    "Mujeres": "1.824.032"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Enero",
+    "Hombres": "1.281.615",
+    "Mujeres": "1.841.463"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Febrero",
+    "Hombres": "1.271.037",
+    "Mujeres": "1.840.647"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Marzo",
+    "Hombres": "1.277.335",
+    "Mujeres": "1.831.428"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Abril",
+    "Hombres": "1.234.118",
+    "Mujeres": "1.788.385"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Mayo",
+    "Hombres": "1.182.009",
+    "Mujeres": "1.740.982"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Junio",
+    "Hombres": "1.156.767",
+    "Mujeres": "1.723.815"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Julio",
+    "Hombres": "1.155.424",
+    "Mujeres": "1.728.388"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Agosto",
+    "Hombres": "1.173.239",
+    "Mujeres": "1.751.001"
+  },
+  {
+    "Año": 2022,
+    "Periodo": "Septiembre",
+    "Hombres": "1.183.033",
+    "Mujeres": "1.758.886"
+  }
+]
