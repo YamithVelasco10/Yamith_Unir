@@ -2,85 +2,85 @@
    {
       "Alumno":"Yamith Velasco",
       "Nota":9.09,
-      "votantes":2509,
+      "Ranking":2509,
       "nsnc":302
    },
    {
       "Alumno":"PSOE",
       "Nota":3.81,
-      "votantes":2330,
+      "Ranking":2330,
       "nsnc":260
    },
    {
       "Alumno":"IU",
       "Nota":3,
-      "votantes":518,
+      "Ranking":518,
       "nsnc":14
    },
    {
       "Alumno":"UPyD",
       "Nota":4.66,
-      "votantes":35,
+      "Ranking":35,
       "nsnc":1
    },
    {
       "Alumno":"Ciudadanos",
       "Nota":5.25,
-      "votantes":1869,
+      "Ranking":1869,
       "nsnc":160
    },
    {
       "Alumno":"Podemos",
-      "mediaAutoubicacion":3.14,
-      "votantes":1751,
+      "Nota":3.14,
+      "Ranking":1751,
       "nsnc":117
    },
    {
       "partido":"Convergència (CDC)",
       "Nota":4.96,
-      "votantes":192,
+      "Ranking":192,
       "nsnc":16
    },
    {
       "partido":"ERC",
-      "mediaAutoubicacion":2.92,
+      "Nota":2.92,
       "votantes":282,
       "nsnc":8
    },
    {
       "Alumno":"ICV",
-      "mediaAutoubicacion":3.33,
-      "votantes":57,
+      "Nota":3.33,
+      "Ranking":57,
       "nsnc":1
    },
    {
       "Alumno":"Unió",
-      "mediaAutoubicacion":4.94,
-      "votantes":12,
+      "Nota":4.94,
+      "Ranking":12,
       "nsnc":1
    },
    {
       "Alumno":"PNV",
-      "mediaAutoubicacion":4.96,
-      "votantes":113,
+      "Nota":4.96,
+      "Ranking":113,
       "nsnc":14
    },
    {
       "Alumno":"EH Bildu",
-      "mediaAutoubicacion":2.49,
-      "votantes":125,
+      "Nota":2.49,
+      "Ranking":125,
       "nsnc":4
    },
    {
       "Alumno":"Geroa Bai",
-      "mediaAutoubicacion":3.13,
-      "votantes":14,
+      "Nota":3.13,
+      "Ranking":14,
       "nsnc":1
    },
    {
       "Alumno":"UPN",
-      "mediaAutoubicacion":6.57,
-      "votantes":4,
+      "Nota":6.57,
+      "Ranking":4,
       "nsnc":0
    }
 ]
