@@ -1,13 +1,13 @@
 [
    {
       "Alumno":"Yamith Velasco",
-      "mediaAutoubicacion":9.09,
+      "Nota":9.09,
       "votantes":2509,
       "nsnc":302
    },
    {
       "Alumno":"PSOE",
-      "mediaAutoubicacion":3.81,
+      "Nota":3.81,
       "votantes":2330,
       "nsnc":260
    },
