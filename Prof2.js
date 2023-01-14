@@ -25,7 +25,7 @@
    },
    {
       "Alumno":"Ciudadanos",
-      "mediaAutoubicacion":5.25,
+      "Nota":5.25,
       "votantes":1869,
       "nsnc":160
    },
@@ -37,7 +37,7 @@
    },
    {
       "partido":"Convergència (CDC)",
-      "mediaAutoubicacion":4.96,
+      "Nota":4.96,
       "votantes":192,
       "nsnc":16
    },
